@@ -13,8 +13,9 @@ Apps:
 |------|-------|---------|--------------| ---|
 | | Akagitsune | AGPL-3.0 ([Source](https://github.com/YuzuRyo61/Akagitsune))  | Linux, Windows |
 | | Citraskey | MIT ([Source](https://github.com/CyberRex0/citraskey)) | 3DS | Misskey client for Nintendo 3DS console |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/29/fc/4429fcc9-eba9-2e11-711e-ff1d994abba4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/350x350.png?"  width="50"> | [Illustail](https://cathand.org/illustail) | proprietary | Mac, iOS | Art-browing client for Misskey, Mastodon, Tinami, Danbooru, and Tumblr. |
 | <img src="https://apt.izzysoft.de/fdroid/repo/moe.craftplacer.kaiteki/en-US/icon.png"  width="50"> | [Kaiteki](https://kaiteki.app/) | AGPL-3.0 ([Source](https://github.com/Kaiteki-Fedi/Kaiteki)) | Web (PWA), Android, Linux, Windows |Mastodon, Pleroma, Misskey, and Twitter client. Using Google's Material Design principle. |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cc/04/b8/cc04b8a2-a5bd-76cc-e5b5-2eb98493ec3e/AppIcon-0-2x-4-0-85-220.png/434x0w.webp"  width="50"> | Kimis | EULA ([Source](https://github.com/Lakr233/Kimis)) | [Mac](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/15/48/14/15481419-a3b5-6b59-ec7b-c5a71915fdc5/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/350x350.png?"  width="50"> | Kimis | EULA ([Source](https://github.com/Lakr233/Kimis)) | [Mac](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125) |
 | | Lesskey | MIT ([Source](https://github.com/AsPulse/lesskey)) | CLI | 
 | <img src="https://play-lh.googleusercontent.com/TSOHK9UAMkYXpg4Qrm5A65oYTmE-nX_g29JBAwqTMB3AZQC4mXCX1_99Wca1EZvLAw=w480-h960"  width="50"> | Milktea | GPL-3.0 ([Source](https://github.com/pantasystem/Milktea)) | [Android](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient) |
 | <img src="https://play-lh.googleusercontent.com/TOivVoOsl4aogV2lo31X2u7UZjLgeToJpY-QW8OtfJiJAhi7u4VntkkdunoGlmrHWA=w480-h960"  width="50"> | [Miria](https://shiosyakeyakini.info/miria_web/index.html) | AGPL-3.0 ([Source](https://github.com/shiosyakeyakini-info/miria)) | Android, iOS |
@@ -22,6 +23,7 @@ Apps:
 | | misskey-desktop | unknown ([Source](https://github.com/troke12/misskey-desktop)) | Windows, Linux | misskey.id only client |
 | <img src="https://play-lh.googleusercontent.com/ayRECRj0NYpZgcmPBdY79wzyi_lkoyJ9IVZO5KiOYR8nxFnET7TVqpLpqfDqDSjVbvt_=w480-h960"  width="50">| [MissRirica](https://riinswork.space/missririca/privacy) | proprietary | [Android](https://play.google.com/store/apps/details?id=space.riinswork.missririca) |
 | <img src="https://raw.githubusercontent.com/MiPC-Dev/MiPC/develop/assets/icon.png"  width="50">| MiPC | MIT ([Source](https://github.com/MiPC-Dev/MiPC)) |  | PC client made with Phyton
+| | Mysskey | MIT ([Source](https://github.com/sym-dev/mysskey)) | Web | 
 | | osukey | MIT ([Source](https://github.com/osukey/osukey)) | Windows, Android | Misskey client based on osu!lazer |
 | <img src="https://play-lh.googleusercontent.com/ltuKeMM9bfMf1bBBglEMF8dADvwiQv5FTbkqOt1OsFB4fXwx473fhY3-nygkawacCOE=w480-h960"  width="50"> | PSkey | MIT ([Source](https://github.com/ibuki2003/pskey)) | [Android](https://play.google.com/store/apps/details?id=dev.fuwa.pskey) | WebView based client  
 | <img src="https://play-lh.googleusercontent.com/oluhxLQhqQz_qsmjs0EeeGnajTrKrmYh34wye7ByiD6aiRGdGwtfJIxIz-LcZvcjXyI7=w480-h960"  width="50"> | [Takesama](https://takesama.com/) | proprietary | [Android](https://play.google.com/store/apps/details?id=com.takesama.app), [iOS](https://apps.apple.com/us/app/takesama/id1622199470?uo=4) |
