@@ -59,5 +59,6 @@ Product of love by [Syuilo](https://misskey.io/@syuilo) and the Misskey develope
 | Logo | Name | Source | Description |
 |------|------|--------|-------------|
 | <img src="https://raw.githubusercontent.com/noridev/ai-kor/master/ai.svg"  width="50"> | ai-kor | MIT ([Source](https://github.com/noridev/ai-kor)) | A bot for Misskey-based clients |
+| | misskey-llm-bot | MIT ([Source](https://github.com/syskuku/misskey-llm-bot)) | LLM-powered auto-reply bot with WebSocket, MFM effects, and multi-model support (NVIDIA NIM / OpenAI / DeepSeek / Ollama) |
 | | dart_mfm_parser | MIT ([Source](https://github.com/shiosyakeyakini-info/dart_mfm_parser)) | MFM parser for Dart
 | | mfm_renderer | MIT ([Source](https://github.com/shiosyakeyakini-info/mfm_renderer)) | Flutter Rendering Markup Language for Misskey 
